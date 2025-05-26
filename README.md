@@ -1,4 +1,5 @@
 # Time Bot with Gemini
+![Screenshot_26-5-2025_175259_smith langchain com](https://github.com/user-attachments/assets/cfb84c00-60cb-4340-b091-5c010441bb88)
 
 Chatbot using Google Gemini that answers time queries.
 
